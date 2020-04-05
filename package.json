@@ -1,0 +1,24 @@
+{
+  "name": "logcurrenttime",
+  "version": "1.0.1",
+  "description": "logs current timestamp to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiransiluveru/log-current-time.git"
+  },
+  "keywords": [
+    "time",
+    "date",
+    "console",
+    "log time",
+    "current time",
+    "log current time"
+  ],
+  "author": "Kiran Kumar Siluveru",
+  "license": "ISC",
+  "homepage": "https://github.com/kiransiluveru/log-current-time"
+}
