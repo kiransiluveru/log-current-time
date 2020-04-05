@@ -21,11 +21,19 @@ console.log('timeString ', timeString);
 
 **Output:**
 
->I am logging in here :  5/4/2020 - 13:37:28
+
+> I am logging in here :  5/4/2020 - 13:37:28
+
 >5/4/2020 - 13:37:28
+
 >5/4/2020 - 13:37:28
+
 > Only date showing example :  5/4/2020
+
 > Only time showing example :   - 13:37:28
+
 >I am logging at here:  5/4/2020 - 13:37:28
+
 >returning log to variable example:  5/4/2020 - 13:37:28
+
 >timeString  returning log to variable example:  5/4/2020 - 13:37:28
