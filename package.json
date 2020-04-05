@@ -12,7 +12,11 @@
   },
   "keywords": [
     "time",
-    "date"
+    "date",
+    "console",
+    "log time",
+    "current time",
+    "log current time"
   ],
   "author": "Kiran Kumar Siluveru",
   "license": "ISC",
